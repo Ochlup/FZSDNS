@@ -1,0 +1,10 @@
+chyba zdroje UT1 https://dsi.ut-capitole.fr/blacklists/index_en.php
+použita záloha 1 (upravte URL)
+zdroj 2 (malware blacklist) aktualizován
+zdroj 3 (porn blacklist) aktualizován
+zdroj 4 (ads reverse blacklist) aktualizován
+zdroj 5 (Energized porn blacklist) aktualizován
+zdroj 6 (Energized porn extra blacklist) aktualizován
+zdroj 7 (malware blacklist) aktualizován
+Počet záznamů : 530249
+Velikost blacklistu : 11402364b
