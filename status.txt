@@ -1,4 +1,5 @@
 chyba zdroje UT1 https://dsi.ut-capitole.fr/blacklists/index_en.php
-použita záloha 1 (upravte URL)
+použita záloha 1 (upravte URL) mohlo nastat moc častou aktualizací 
+zdroj 7 (malware blacklist) aktualizován
 Počet záznamů : 530249
 Velikost blacklistu : 11402364b
