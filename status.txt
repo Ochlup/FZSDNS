@@ -1,4 +1,3 @@
-Ručně změněných záznamů blacklistu : 2
 Počet záznamů : 595281
 Velikost blacklistu : 12730924b
-Celkem aplikovaných změn v databázi : 1311
+Celkem aplikovaných změn v databázi : 0
