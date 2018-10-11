@@ -1,3 +1,4 @@
+zdroj 1 (adult blacklist) aktualizován. (3 změn)
 Počet záznamů : 595280
 Velikost blacklistu : 12730905b
 Celkem aplikovaných změn v databázi : 0
