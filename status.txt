@@ -1,2 +1,2 @@
-Počet záznamů : 530244
-Velikost blacklistu : 11402296b
+Počet záznamů : 595281
+Velikost blacklistu : 12730917b
