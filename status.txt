@@ -1,3 +1,5 @@
+Následující záznamy jsou nalezeny duplicitně, jak u whitelist tak u Blacklist
+
 Počet záznamů : 595280
 Velikost blacklistu : 12730905b
 Celkem aplikovaných změn v databázi : 0
