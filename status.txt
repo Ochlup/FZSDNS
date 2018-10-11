@@ -1,2 +1,3 @@
+zdroj 7 (malware blacklist) aktualizován
 Počet záznamů : 530249
-Velikost blacklistu : 11402364b
+Velikost blacklistu : 11402361b
