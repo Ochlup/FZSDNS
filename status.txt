@@ -1,3 +1,8 @@
-zdroj 7 (malware blacklist) aktualizován
+zdroj 2 (malware blacklist) aktualizován. ( změn)
+zdroj 3 (porn blacklist) aktualizován. (4 změn)
+zdroj 4 (ads reverse blacklist) aktualizován. (6 změn)
+zdroj 5 (Energized porn blacklist) aktualizován. (13 změn)
+zdroj 6 (Energized porn extra blacklist) aktualizován. (7 změn)
+zdroj 7 (malware blacklist) aktualizován. (7 změn)
 Počet záznamů : 595281
 Velikost blacklistu : 12730917b
