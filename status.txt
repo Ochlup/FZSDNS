@@ -1,11 +1,7 @@
-Zdroj 7 (malware blacklist) aktualizován. (8 změn)
 Následující záznamy jsou nalezeny duplicitně, jak u whitelist tak u blacklist :
-aaa.cz
-bbb.cz
-ccc.cz
-nemazat.tw
-Ručně změněných záznamů blacklistu : 3
-Ručně změněných záznamů whitelistu : 3
+
+Ručně změněných záznamů blacklistu : 5
+Ručně změněných záznamů whitelistu : 6
 Počet záznamů : 595280
 Velikost blacklistu : 12730905b
 Celkem aplikovaných změn v databázi : 0
