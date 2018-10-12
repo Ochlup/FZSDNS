@@ -1,4 +1,4 @@
-Zdroj 2 (malware blacklist) aktualizován. (184307 změn)
-Počet záznamů : 595228
-Velikost blacklistu : 12729769b
-Celkem aplikovaných změn v databázi : 41317
+Ručně změněných záznamů blacklistu : 2
+Počet záznamů : 595230
+Velikost blacklistu : 12729800b
+Celkem aplikovaných změn v databázi : 2
