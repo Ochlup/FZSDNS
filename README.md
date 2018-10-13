@@ -1,4 +1,4 @@
-#FZSDNS 0.7.5 stable
+# FZSDNS 0.7.5 stable
 
 - soubory blacklist / whitelist jsou k editaci ( formát domena.xx nebo xxx.domena.xx). <br />
   Whitelist je nadřazený blacklistu, takže pokud je stejný záznam v obou, dojde k anulování. <br />
