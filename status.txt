@@ -1,4 +1,7 @@
-Zdroj 7 (malware blacklist) aktualizován. (19 změn)
-Počet záznamů : 595292
-Velikost blacklistu : 12730900b
-Celkem aplikovaných změn v databázi : 3
+Zdroj 4 (ads reverse blacklist) aktualizován. (4 změn)
+Zdroj 5 (Energized porn blacklist) aktualizován. (1066720 změn)
+Zdroj 6 (Energized porn extra blacklist) aktualizován. (94524 změn)
+Zdroj 7 (malware blacklist) aktualizován. (59 změn)
+Počet záznamů : 594537
+Velikost blacklistu : 12713150b
+Celkem aplikovaných změn v databázi : 801
