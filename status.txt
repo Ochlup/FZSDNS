@@ -1,6 +1,4 @@
-Zdroj 5 (Energized porn blacklist) aktualizován. (1062828 změn)
-Zdroj 6 (Energized porn extra blacklist) aktualizován. (93762 změn)
-Zdroj 7 (malware blacklist) aktualizován. (22 změn)
+Zdroj 7 (malware blacklist) aktualizován. (12 změn)
 Počet záznamů : 593826
-Velikost blacklistu : 12698442b
-Celkem aplikovaných změn v databázi : 779
+Velikost blacklistu : 12698445b
+Celkem aplikovaných změn v databázi : 2
