@@ -1,6 +1,5 @@
-Zdroj 1 (UT adult blacklist) aktualizován. (17 změn)
-Zdroj 4 (ads reverse blacklist) aktualizován. (4 změn)
-Zdroj 7 (malware blacklist) aktualizován. (4 změn)
-Počet záznamů : 581877
-Velikost blacklistu : 12443659b
-Celkem aplikovaných změn v databázi : 9
+Zdroj 1 (UT adult blacklist) aktualizován. (1 změn)
+Zdroj 7 (malware blacklist) aktualizován. (3 změn)
+Počet záznamů : 581878
+Velikost blacklistu : 12443684b
+Celkem aplikovaných změn v databázi : 1
