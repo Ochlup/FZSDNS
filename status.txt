@@ -1,3 +1,5 @@
-Počet záznamů : 578599
-Velikost blacklistu : 12369108b
-Celkem aplikovaných změn v databázi : 0
+Zdroj 1 (UT adult blacklist) aktualizován. (1 změn)
+Zdroj 7 (malware blacklist) aktualizován. (10 změn)
+Počet záznamů : 578600
+Velikost blacklistu : 12369124b
+Celkem aplikovaných změn v databázi : 1
