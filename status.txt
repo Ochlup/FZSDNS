@@ -1,4 +1,5 @@
-Zdroj 7 (malware blacklist) aktualizován. (1 změn)
+Zdroj 4 (ads reverse blacklist) aktualizován. (7 změn)
+Zdroj 7 (malware blacklist) aktualizován. (14 změn)
 Počet záznamů : 578196
 Velikost blacklistu : 12360128b
-Celkem aplikovaných změn v databázi : 1
+Celkem aplikovaných změn v databázi : 0
