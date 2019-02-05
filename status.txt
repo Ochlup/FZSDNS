@@ -1,3 +1,4 @@
-Počet záznamů : 576516
-Velikost blacklistu : 12324796b
-Celkem aplikovaných změn v databázi : 0
+Zdroj 7 (malware blacklist) aktualizován. (23 změn)
+Počet záznamů : 576515
+Velikost blacklistu : 12324774b
+Celkem aplikovaných změn v databázi : 1
