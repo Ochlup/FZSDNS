@@ -1,4 +1,7 @@
-Zdroj 7 (malware blacklist) aktualizován. (23 změn)
-Počet záznamů : 576515
-Velikost blacklistu : 12324774b
-Celkem aplikovaných změn v databázi : 1
+Zdroj 1 (UT adult blacklist) aktualizován. (390 změn)
+Zdroj 7 (malware blacklist) aktualizován. (2 změn)
+Chyba zdroje simple malware https://s3.amazonaws.com/lists.disconnect.me/porn
+Použita záloha 7 (upravte URL)
+Počet záznamů : 576519
+Velikost blacklistu : 12324850b
+Celkem aplikovaných změn v databázi : 4
