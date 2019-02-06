@@ -1,6 +1,4 @@
-Chyba zdroje StevenBlack https://github.com/StevenBlack/hosts
-Použita záloha 2 (upravte URL)
-Zdroj 3 (porn blacklist) aktualizován. (7884 změn)
-Počet záznamů : 576594
-Velikost blacklistu : 12326337b
+Zdroj 2 (malware blacklist) aktualizován. (7884 změn)
+Počet záznamů : 576519
+Velikost blacklistu : 12324850b
 Celkem aplikovaných změn v databázi : 75
