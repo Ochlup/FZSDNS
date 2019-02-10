@@ -1,6 +1,9 @@
-Chyba zdroje ADS (reverse) https://hosts-file.net/ad_servers.txt
-Použita záloha 4 (upravte URL)
-Zdroj 7 (malware blacklist) aktualizován. (4 změn)
-Počet záznamů : 576535
-Velikost blacklistu : 12325211b
-Celkem aplikovaných změn v databázi : 2
+Zdroj 1 (UT adult blacklist) aktualizován. (956 změn)
+Chyba zdroje StevenBlack https://github.com/StevenBlack/hosts
+Použita záloha 2 (upravte URL)
+Chyba zdroje StevenBlack https://github.com/StevenBlack/hosts/tree/master/alternates/porn
+Použita záloha 3 (upravte URL)
+Zdroj 7 (malware blacklist) aktualizován. (75 změn)
+Počet záznamů : 576544
+Velikost blacklistu : 12325372b
+Celkem aplikovaných změn v databázi : 11
