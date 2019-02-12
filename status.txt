@@ -1,6 +1,7 @@
-Zdroj 1 (UT adult blacklist) aktualizován. (2 změn)
-Chyba zdroje simple malware https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
-Použita záloha 7 (upravte URL)
-Počet záznamů : 576546
-Velikost blacklistu : 12325418b
-Celkem aplikovaných změn v databázi : 2
+Zdroj 1 (UT adult blacklist) aktualizován. (16 změn)
+Chyba zdroje ADS (reverse) https://hosts-file.net/ad_servers.txt
+Použita záloha 4 (upravte URL)
+Zdroj 7 (malware blacklist) aktualizován. (14 změn)
+Počet záznamů : 576551
+Velikost blacklistu : 12325521b
+Celkem aplikovaných změn v databázi : 5
