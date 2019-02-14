@@ -1,7 +1,8 @@
-Zdroj 2 (malware blacklist) aktualizován. (11900 změn)
-Zdroj 3 (porn blacklist) aktualizován. (20470 změn)
-Chyba zdroje ADS (reverse) https://hosts-file.net/ad_servers.txt
-Použita záloha 4 (upravte URL)
+Zdroj 4 (ads reverse blacklist) aktualizován. (6 změn)
+Chyba zdroje simple malware https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+Použita záloha 7 (upravte URL)
+Chyba zdroje simple malware https://tspprs.com/dl/porn
+Použita záloha 7 (upravte URL)
 Počet záznamů : 576628
 Velikost blacklistu : 12327037b
-Celkem aplikovaných změn v databázi : 77
+Celkem aplikovaných změn v databázi : 0
