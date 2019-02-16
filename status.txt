@@ -2,9 +2,8 @@ Chyba zdroje StevenBlack https://github.com/StevenBlack/hosts
 Použita záloha 2 (upravte URL)
 Chyba zdroje StevenBlack https://github.com/StevenBlack/hosts/tree/master/alternates/porn
 Použita záloha 3 (upravte URL)
-Zdroj 5 (Energized porn blacklist) aktualizován. (997982 změn)
-Zdroj 6 (Energized porn extra blacklist) aktualizován. (79977 změn)
-Zdroj 7 (malware blacklist) aktualizován. (16 změn)
-Počet záznamů : 576282
-Velikost blacklistu : 12319475b
-Celkem aplikovaných změn v databázi : 361
+Zdroj 4 (ads reverse blacklist) aktualizován. (3 změn)
+Zdroj 7 (malware blacklist) aktualizován. (69 změn)
+Počet záznamů : 576266
+Velikost blacklistu : 12319140b
+Celkem aplikovaných změn v databázi : 16
