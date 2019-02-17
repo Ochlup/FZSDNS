@@ -1,9 +1,3 @@
-Chyba zdroje StevenBlack https://github.com/StevenBlack/hosts
-Použita záloha 2 (upravte URL)
-Chyba zdroje StevenBlack https://github.com/StevenBlack/hosts/tree/master/alternates/porn
-Použita záloha 3 (upravte URL)
-Zdroj 4 (ads reverse blacklist) aktualizován. (3 změn)
-Zdroj 7 (malware blacklist) aktualizován. (69 změn)
 Počet záznamů : 576266
 Velikost blacklistu : 12319140b
-Celkem aplikovaných změn v databázi : 16
+Celkem aplikovaných změn v databázi : 0
