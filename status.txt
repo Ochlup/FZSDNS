@@ -1,4 +1,6 @@
-Zdroj 7 (malware blacklist) aktualizován. (50 změn)
-Počet záznamů : 576290
-Velikost blacklistu : 12319846b
-Celkem aplikovaných změn v databázi : 26
+Chyba zdroje ADS (reverse) https://hosts-file.net/ad_servers.txt
+Použita záloha 4 (upravte URL)
+Zdroj 7 (malware blacklist) aktualizován. (5 změn)
+Počet záznamů : 576289
+Velikost blacklistu : 12319833b
+Celkem aplikovaných změn v databázi : 1
