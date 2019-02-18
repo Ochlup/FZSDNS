@@ -1,0 +1,72 @@
+=====================================
+DNS Blacklist generator V0.7.6 stable
+=====================================
+updater spuštěn v režimu DAILY
+stahování aktualizací
+
+
+
+Problém při stažení ad_servers.txt Beru ze zálohy !!
+
+
+
+
+===================
+konverze blacklistu
+===================
+whitelistovaní chybného blacklistu
+příprava blacklistu
+odstranění komentářů simple malware
+odstranění ochrany [̲̅p̲̅][̲̅o̲̅][̲̅r̲̅][̲̅n̲̅][̲̅a̲̅][̲̅w̲̅][̲̅a̲̅][̲̅y̲̅] 1/2
+odstranění komentů porn hosts2
+odstranění chybných záznamů porn hosts2
+7.1% 14.2% 21.4% 28.5% 35.7% 42.8% 50.0% 57.1% 64.2% 71.4% 78.5% 85.7% 92.8% 100%.
+odstanění prázdných záznamů porn host2s
+úprava záznamů porn hosts2
+odstranění ochrany 2/2
+odstranění komentů ext-porn
+odstranění chybných záznamů ext-porn
+7.1% 14.2% 21.4% 28.5% 35.7% 42.8% 50.0% 57.1% 64.2% 71.4% 78.5% 85.7% 92.8% 100%.
+odstanění prázdných záznamů ext-porn
+úprava záznamů ext-porn
+čistění magaporn listu
+propojení blacklistů
+odstranění blogspot záznamů
+odstranění tumblr.com záznamů
+odstranění nepoužitelných IP
+odstranění komentů ADS
+úprava záznamů ADS
+příprava porovnávacího souboru ADS
+úprava záznamů pro primární BL 1/2
+úprava záznamů pro primární BL 2/2
+reversní aplikace ADS
+aktualizace black/white listu z github
+Already up-to-date.
+generování výstupu blacklistu
+připojení blacklistu z github
+generování výstupu whitelistu z github
+připojení whitelistu
+odstanění prázdných záznamů
+oprava nepoužitelných záznamů
+kontrola duplicitních záznamů
+seřazení podle abecedy
+kontrola domén
+přidání tagů
+čištění a oprava kompatiblity
+příprava pro zveřejnění
+zveřejnění změn na github
+[master 07cfbdb] DAILY Update : Mon 18 Feb 02:02:19 CET 2019 'CHYBA'
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+aplikace blacklistu na DNS1 server
+(re)loaded '/etc/powerdns/adblock.lua'
+(re)loaded '/etc/powerdns/adblock.lua'
+(re)loaded '/etc/powerdns/adblock.lua'
+=========================
+aktualizace databáze DNS2
+=========================
+
+aplikace blocklistu na DNS2 server
+(re)loaded '/etc/powerdns/adblock.lua'
+(re)loaded '/etc/powerdns/adblock.lua'
+(re)loaded '/etc/powerdns/adblock.lua'
+Hotovo

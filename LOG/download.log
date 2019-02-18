@@ -1,0 +1,73 @@
+--2019-02-18 14:30:20--  http://dsi.ut-capitole.fr/blacklists/download/adult.tar.gz
+Resolving dsi.ut-capitole.fr (dsi.ut-capitole.fr)... 193.49.48.249
+Connecting to dsi.ut-capitole.fr (dsi.ut-capitole.fr)|193.49.48.249|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8368792 (8.0M) [application/x-gzip]
+Saving to: ‘adult.tar.gz’
+
+
+2019-02-18 14:30:26 (1.44 MB/s) - ‘adult.tar.gz’ saved [8368792/8368792]
+
+--2019-02-18 14:30:27--  https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.112.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.112.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1188086 (1.1M) [text/plain]
+Saving to: ‘hosts’
+
+
+2019-02-18 14:30:28 (5.41 MB/s) - ‘hosts’ saved [1188086/1188086]
+
+--2019-02-18 14:30:28--  https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.112.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.112.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1483479 (1.4M) [text/plain]
+Saving to: ‘hosts’
+
+
+2019-02-18 14:30:28 (9.00 MB/s) - ‘hosts’ saved [1483479/1483479]
+
+--2019-02-18 14:30:28--  https://hosts-file.net/ad_servers.txt
+Resolving hosts-file.net (hosts-file.net)... 107.22.171.143
+Connecting to hosts-file.net (hosts-file.net)|107.22.171.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1772629 (1.7M) [text/plain]
+Saving to: ‘ad_servers.txt’
+
+
+2019-02-18 14:30:31 (815 KB/s) - ‘ad_servers.txt’ saved [1772629/1772629]
+
+--2019-02-18 14:30:31--  https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.112.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.112.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13924847 (13M) [text/plain]
+Saving to: ‘hosts’
+
+
+2019-02-18 14:30:35 (4.36 MB/s) - ‘hosts’ saved [13924847/13924847]
+
+--2019-02-18 14:30:35--  https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/porn-lite/formats/hosts
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.112.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.112.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1008778 (985K) [text/plain]
+Saving to: ‘hosts’
+
+
+2019-02-18 14:30:35 (8.73 MB/s) - ‘hosts’ saved [1008778/1008778]
+
+--2019-02-18 14:30:35--  https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+Resolving s3.amazonaws.com (s3.amazonaws.com)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘s3.amazonaws.com’
+--2019-02-18 14:30:37--  https://tspprs.com/dl/porn
+Resolving tspprs.com (tspprs.com)... 104.27.135.134, 104.27.134.134, 2606:4700:30::681b:8686, ...
+Connecting to tspprs.com (tspprs.com)|104.27.135.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46391400 (44M)
+Saving to: ‘porn’
+
+
+2019-02-18 14:30:43 (9.11 MB/s) - ‘porn’ saved [46391400/46391400]
+
