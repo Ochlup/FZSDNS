@@ -1,3 +1,5 @@
+Chyba zdroje simple malware https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+Použita záloha 7 2019-02-18 13:54:23.261189649 +0100
 Počet záznamů : 576295
 Velikost blacklistu : 12319980b
 Celkem aplikovaných změn v databázi : 0
