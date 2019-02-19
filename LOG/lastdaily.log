@@ -55,18 +55,7 @@ přidání tagů
 čištění a oprava kompatiblity
 příprava pro zveřejnění
 zveřejnění změn na github
-[master 556d488] DAILY Update : Tue Feb 19 10:59:48 CET 2019 'OK'
- 3 files changed, 1544 insertions(+), 1545 deletions(-)
+[master b60b157] DAILY Update : Tue Feb 19 11:09:46 CET 2019 'OK'
+ 3 files changed, 1543 insertions(+), 1542 deletions(-)
  rewrite LOG/download.log (91%)
-aplikace blacklistu na DNS1 server
-(re)loaded '/etc/powerdns/adblock.lua'
-(re)loaded '/etc/powerdns/adblock.lua'
-(re)loaded '/etc/powerdns/adblock.lua'
-=========================
-aktualizace databáze DNS2
-=========================
-
-aplikace blocklistu na DNS2 server
-(re)loaded '/etc/powerdns/adblock.lua'
-(re)loaded '/etc/powerdns/adblock.lua'
-(re)loaded '/etc/powerdns/adblock.lua'
+Hotovo, aktualizace není nutná
