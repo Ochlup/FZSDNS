@@ -1,12 +1,12 @@
 =====================================
-DNS Blacklist generator V0.7.6 stable
+DNS Blacklist generator V0.7.7 stable
 =====================================
 updater spuštěn v režimu DAILY
 stahování aktualizací
 
 
 
-Problém při stažení ad_servers.txt Beru ze zálohy !!
+
 
 
 
@@ -55,8 +55,8 @@ přidání tagů
 čištění a oprava kompatiblity
 příprava pro zveřejnění
 zveřejnění změn na github
-[master 07cfbdb] DAILY Update : Mon 18 Feb 02:02:19 CET 2019 'CHYBA'
- 1 file changed, 6 insertions(+), 4 deletions(-)
+[master 61550b5] DAILY Update : Tue 19 Feb 02:02:19 CET 2019 'OK'
+ 1 file changed, 6 insertions(+), 5 deletions(-)
 aplikace blacklistu na DNS1 server
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
@@ -69,4 +69,3 @@ aplikace blocklistu na DNS2 server
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
-Hotovo
