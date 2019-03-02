@@ -1,6 +1,6 @@
-Zdroj 7 (malware blacklist) aktualizován. (85 změn)
-Chyba zdroje simple malware https://tspprs.com/dl/porn
-Použita záloha 8 2019-02-28 02:00:18.853046350 +0100
-Počet záznamů : 576302
-Velikost blacklistu : 12318894b
-Celkem aplikovaných změn v databázi : 12
+Zdroj 5 (Energized porn blacklist) aktualizován. (995337 změn)
+Zdroj 6 (Energized porn extra blacklist) aktualizován. (79560 změn)
+Zdroj 7 (malware blacklist) aktualizován. (76 změn)
+Počet záznamů : 575431
+Velikost blacklistu : 12298700b
+Celkem aplikovaných změn v databázi : 879
