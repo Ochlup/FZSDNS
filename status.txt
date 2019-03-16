@@ -1,4 +1,6 @@
-Zdroj 7 (malware blacklist) aktualizován. (21 změn)
-Počet záznamů : 575750
-Velikost blacklistu : 12303615b
-Celkem aplikovaných změn v databázi : 3
+Zdroj 2 (malware blacklist) aktualizován. (21861 změn)
+Zdroj 3 (porn blacklist) aktualizován. (21869 změn)
+Zdroj 7 (malware blacklist) aktualizován. (44 změn)
+Počet záznamů : 575754
+Velikost blacklistu : 12303658b
+Celkem aplikovaných změn v databázi : 42
