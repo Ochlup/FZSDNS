@@ -1,3 +1,4 @@
+Ručně změněných záznamů whitelistu : 1
 Počet záznamů : 584349
 Velikost blacklistu : 12498198b
 Celkem aplikovaných změn v databázi : 0
