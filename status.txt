@@ -1,4 +1,3 @@
-Zdroj 1 (UT adult blacklist) aktualizován. (76 změn)
 Počet záznamů : 587530
 Velikost blacklistu : 12561320b
-Celkem aplikovaných změn v databázi : 3
+Celkem aplikovaných změn v databázi : 0
