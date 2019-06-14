@@ -55,9 +55,8 @@ přidání tagů
 čištění a oprava kompatiblity
 příprava pro zveřejnění
 zveřejnění změn na github
-[master 6f0f641] DAILY Update : Thu 13 Jun 02:00:56 CEST 2019 'OK'
- 1 file changed, 5 insertions(+), 8 deletions(-)
- rewrite status.txt (100%)
+[master 3206053] DAILY Update : Fri 14 Jun 02:01:00 CEST 2019 'OK'
+ 1 file changed, 4 insertions(+), 5 deletions(-)
 aplikace blacklistu na DNS1 server
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
