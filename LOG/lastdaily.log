@@ -10,13 +10,11 @@ stahování aktualizací
 
 
 
-
 ===================
 konverze blacklistu
 ===================
 whitelistovaní chybného blacklistu
 příprava blacklistu
-odstranění komentářů simple malware
 odstranění ochrany [̲̅p̲̅][̲̅o̲̅][̲̅r̲̅][̲̅n̲̅][̲̅a̲̅][̲̅w̲̅][̲̅a̲̅][̲̅y̲̅] 1/2
 odstranění komentů porn hosts2
 odstranění chybných záznamů porn hosts2
@@ -55,8 +53,8 @@ přidání tagů
 čištění a oprava kompatiblity
 příprava pro zveřejnění
 zveřejnění změn na github
-[master a7d34c1] DAILY Update : Fri  9 Aug 02:01:16 CEST 2019 'OK'
- 1 file changed, 5 insertions(+), 5 deletions(-)
+[master dafece8] DAILY Update : Sat 10 Aug 02:00:54 CEST 2019 'OK'
+ 1 file changed, 5 insertions(+), 3 deletions(-)
 aplikace blacklistu na DNS1 server
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
@@ -69,7 +67,3 @@ aplikace blocklistu na DNS2 server
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
-[master 0605442] Update : Fri  9 Aug 02:01:31 CEST 2019 'OK'
- 2 files changed, 1473 insertions(+), 1473 deletions(-)
- rewrite LOG/download.log (91%)
-Hotovo
