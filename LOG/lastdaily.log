@@ -9,7 +9,7 @@ stahování aktualizací
 
 
 
-
+Problém při stažení porn Beru ze zálohy !!
 ===================
 konverze blacklistu
 ===================
@@ -53,7 +53,7 @@ přidání tagů
 čištění a oprava kompatiblity
 příprava pro zveřejnění
 zveřejnění změn na github
-[master 8dbf798] DAILY Update : Thu 15 Aug 02:00:57 CEST 2019 'OK'
+[master b603836] DAILY Update : Fri 16 Aug 02:00:53 CEST 2019 'CHYBA'
  1 file changed, 7 insertions(+), 7 deletions(-)
 aplikace blacklistu na DNS1 server
 (re)loaded '/etc/powerdns/adblock.lua'
