@@ -1,8 +1,5 @@
-Zdroj 1 (UT adult blacklist) aktualizován. (5437 změn)
-Zdroj 2 (malware blacklist) aktualizován. (11958 změn)
-Zdroj 3 (porn blacklist) aktualizován. (12493 změn)
 Zdroj 5 (Energized porn blacklist) aktualizován. (785170 změn)
 Zdroj 6 (Energized porn extra blacklist) aktualizován. (81976 změn)
 Počet záznamů : 560962
 Velikost blacklistu : 11943122b
-Celkem aplikovaných změn v databázi : 50
+Celkem aplikovaných změn v databázi : 0
