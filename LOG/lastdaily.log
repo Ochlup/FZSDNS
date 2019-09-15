@@ -53,8 +53,8 @@ přidání tagů
 čištění a oprava kompatiblity
 příprava pro zveřejnění
 zveřejnění změn na github
-[master 7e5cf59] DAILY Update : Sat 14 Sep 02:00:37 CEST 2019 'OK'
- 1 file changed, 4 insertions(+), 4 deletions(-)
+[master cc52748] DAILY Update : Sun 15 Sep 02:00:39 CEST 2019 'OK'
+ 1 file changed, 6 insertions(+), 6 deletions(-)
 aplikace blacklistu na DNS1 server
 (re)loaded '/etc/powerdns/adblock.lua'
 (re)loaded '/etc/powerdns/adblock.lua'
