@@ -1,7 +1,7 @@
-Zdroj 1 (UT adult blacklist) aktualizován. (235221 změn)
-Zdroj 5 (Energized porn blacklist) aktualizován. (750952 změn)
-Zdroj 6 (Energized porn extra blacklist) aktualizován. (83771 změn)
+Zdroj 1 (UT adult blacklist) aktualizován. (135438 změn)
+Zdroj 5 (Energized porn blacklist) aktualizován. (750804 změn)
+Zdroj 6 (Energized porn extra blacklist) aktualizován. (83765 změn)
 Zdroj 8  aktualizován. (2570 změn)
-Počet záznamů : 596378
-Velikost blacklistu : 12753110b
-Celkem aplikovaných změn v databázi : 542
+Počet záznamů : 596379
+Velikost blacklistu : 12753128b
+Celkem aplikovaných změn v databázi : 3
