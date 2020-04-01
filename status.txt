@@ -1,7 +1,9 @@
-Zdroj 1 (UT adult blacklist) aktualizován. (67 změn)
-Zdroj 2 (malware blacklist) aktualizován. (10138 změn)
-Zdroj 3 (porn blacklist) aktualizován. (10173 změn)
+Zdroj 1 (UT adult blacklist) aktualizován. (1 změn)
+Chyba zdroje ADS (reverse) https://hosts-file.net/ad_servers.txt
+Použita záloha 4 2020-03-31 02:00:12.467230966 +0200
+Zdroj 5 (Energized porn blacklist) aktualizován. (777037 změn)
+Zdroj 6 (Energized porn extra blacklist) aktualizován. (84336 změn)
 Zdroj 8  aktualizován. (2544 změn)
-Počet záznamů : 597794
-Velikost blacklistu : 12781253b
-Celkem aplikovaných změn v databázi : 30
+Počet záznamů : 597803
+Velikost blacklistu : 12781392b
+Celkem aplikovaných změn v databázi : 9
