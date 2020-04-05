@@ -1,8 +1,9 @@
-Zdroj 2 (malware blacklist) aktualizován. (10338 změn)
-Zdroj 3 (porn blacklist) aktualizován. (10338 změn)
+Zdroj 1 (UT adult blacklist) aktualizován. (2 změn)
+Zdroj 2 (malware blacklist) aktualizován. (10400 změn)
+Zdroj 3 (porn blacklist) aktualizován. (10400 změn)
 Chyba zdroje ADS (reverse) https://hosts-file.net/ad_servers.txt
-Použita záloha 4 2020-04-03 02:01:47.892001728 +0200
+Použita záloha 4 2020-04-04 02:03:57.941989346 +0200
 Zdroj 8  aktualizován. (2544 změn)
-Počet záznamů : 597805
-Velikost blacklistu : 12781429b
-Celkem aplikovaných změn v databázi : 0
+Počet záznamů : 597807
+Velikost blacklistu : 12781465b
+Celkem aplikovaných změn v databázi : 2
